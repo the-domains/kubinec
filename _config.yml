@@ -1,7 +1,7 @@
 name: Kubinec
 favicon: null
-layout_spectrum: 0.535138331586495
-typography_spectrum: 0.5091014143545181
+layout_spectrum: 1
+typography_spectrum: 0.24661
 cta:
   domain: null
   bucket: null
