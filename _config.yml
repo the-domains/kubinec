@@ -1,0 +1,28 @@
+name: Kubinec
+favicon: null
+layout_spectrum: 0.535138331586495
+typography_spectrum: 0.5091014143545181
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8282266058959067
+  lightness: 0.14300642255693674
+  saturation: 0.3680855876300484
+  rhythmicContrast: 0.8288435945287347
+purpose: []
