@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Photography pages
-datePublished: '2016-01-28T15:47:56.156Z'
+datePublished: '2016-01-28T15:47:55.912Z'
 dateModified: '2016-01-28T15:47:45.649Z'
 title: Kubinec.net - the photographer
 author: []
